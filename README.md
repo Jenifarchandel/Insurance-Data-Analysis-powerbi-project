@@ -47,9 +47,9 @@ The dashboard was developed in **Power BI Desktop**, integrated with **Python sc
 ## 📸 Dashboard Preview  
 
 ### Sentiment Analysis Dashboard  
-![Sentiment Dashboard](images/dashboard3.png)
+![Sentiment Dashboard](https://github.com/Jenifarchandel/Insurance-Data-Analysis-powerbi-project/blob/main/sentimentDashboard.png)
 
 ### Published Power BI Cloud View  
-![Power BI Cloud](images/sentimentdashboard.png)
+![Power BI Cloud](https://github.com/Jenifarchandel/Insurance-Data-Analysis-powerbi-project/blob/main/dashboard3.png)
 
 
