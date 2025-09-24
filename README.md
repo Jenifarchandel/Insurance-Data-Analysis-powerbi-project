@@ -47,12 +47,9 @@ The dashboard was developed in **Power BI Desktop**, integrated with **Python sc
 ## 📸 Dashboard Preview  
 
 ### Sentiment Analysis Dashboard  
-![Sentiment Dashboard](images/dashboard1.png)
-
-### Word Cloud  
-![Word Cloud](images/dashboard2.png)
+![Sentiment Dashboard](images/dashboard3.png)
 
 ### Published Power BI Cloud View  
-![Power BI Cloud](images/dashboard3.png)
+![Power BI Cloud](images/sentimentdashboard.png)
 
 
